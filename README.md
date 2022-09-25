@@ -39,7 +39,7 @@ Output of user's voice data.<br>
 ![](images/useroutput.png)
 
 # Contributors
-
+* ### [Niranjan Rao S S](https://github.com/NiranjanRao07)
 * ### [Noel Jacob Abraham](https://github.com/NoelJacobAbraham)
 * ### [Prajay V K](https://github.com/PrajayVK)
 * ### [Rahul Samal](https://github.com/Omicron02)
