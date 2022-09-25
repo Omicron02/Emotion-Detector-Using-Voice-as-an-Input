@@ -14,11 +14,11 @@ Each audio file is named in such a way that the 7th character is consistent with
 ## Audio files:
 Tested out the audio files by plotting out the waveform and a spectrogram to see the sample audio files.<br>
 **Waveform**<br>
-![](images/wave.png?raw=true)
+![](images/wave.png)
 <br>
 <br>
 **Spectrogram**<br>
-![](images/spec.png?raw=true)
+![](images/spec.png)
 <br>
 
 ## Predictions
@@ -26,11 +26,13 @@ Tested out the audio files by plotting out the waveform and a spectrogram to see
 These are a sample of the actual vs predicted values.
 <br>
 <br>
-![](images/predict.png?raw=true)
+![](images/predict.png)
 <br>
 
 ## Testing out with live voices
 In order to test out our model on voices that were completely different than what we have in our training and test data, we recorded our own voices with dfferent emotions and predicted the outcomes.
+Waveform of recorded audio.
+![](images/userinput.png)
 
 # Contributors
 
