@@ -35,7 +35,7 @@ Waveform of recorded audio.
 ![](images/userinput.png)
 <br>
 <br>
-Output of user's voice data.
+Output of user's voice data.<br>
 ![](images/useroutput.png)
 
 # Contributors
