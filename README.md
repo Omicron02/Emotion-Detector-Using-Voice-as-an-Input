@@ -30,7 +30,7 @@ These are a sample of the actual vs predicted values.
 <br>
 
 ## Testing out with live voices
-In order to test out our model on voices that were completely different than what we have in our training and test data, we recorded our own voices with dfferent emotions and predicted the outcomes.
+In order to test out our model on voices that were completely different than what we have in our training and test data, we recorded our own voices with dfferent emotions and predicted the outcomes.<br>
 Waveform of recorded audio.
 ![](images/userinput.png)
 
