@@ -1,4 +1,4 @@
-# Emotion Detector Using Voice as in Input
+# Emotion Detector Using Voice as an Input
 
 The aim of the project is to analyze the user's voice and determine their mood which can then be used for various purposes.
 
